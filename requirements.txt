@@ -1,0 +1,5 @@
+# Required
+pdfplumber>=0.10
+
+# Optional: live web search tool (agent works without it, using only the local RAG knowledge base)
+ddgs>=9.0
